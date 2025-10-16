@@ -62,18 +62,18 @@ This structure promotes:
 - ✅ **Compose UI Tests** for verifying UI states (expand/collapse, loading, error)  
 
 🧭 Key Features
-  Fetch holdings data from mock REST API
-  Calculate current value, total investment, total P&L, and today’s P&L
-  Expand/collapse detailed rows with smooth animations
-  Error & loading state handling
-  Modular, testable MVVM with full DI support
+- Fetch holdings data from mock REST API
+- Calculate current value, total investment, total P&L, and today’s P&L
+- Expand/collapse detailed rows with smooth animations
+- Error & loading state handling
+- Modular, testable MVVM with full DI support
 
 🎯 Goals
-  This project demonstrates:
-  Production-grade Android architecture for modern Kotlin apps
-  Jetpack Compose best practices
-  End-to-end test coverage
-  Clean code readability for portfolio or interview demonstrations
+- This project demonstrates:
+- Production-grade Android architecture for modern Kotlin apps
+- Jetpack Compose best practices
+- End-to-end test coverage
+- Clean code readability for portfolio or interview demonstrations
 
 🧑‍💻 Author
 Saurabh
