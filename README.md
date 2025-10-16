@@ -37,16 +37,16 @@ This project is designed as a **reference architecture** for scalable Android de
 
 ## 🧩 Project Architecture
 - app/
-├── core/ # Common utilities (Result, extensions)
-├── di/ # Hilt dependency injection modules
-├── feature/
-│ └── holdings/
-│ ├── data/ # Retrofit API, repository implementations
-│ ├── domain/ # Entities & use cases
-│ └── presentation/
-│ ├── ui/ # Jetpack Compose screens
-│ └── viewmodel/
-└── ui/theme/ # Material3 theming
+- ├── core/ # Common utilities (Result, extensions)
+- ├── di/ # Hilt dependency injection modules
+- ├── feature/
+- │ └── holdings/
+- │ ├── data/ # Retrofit API, repository implementations
+- │ ├── domain/ # Entities & use cases
+- │ └── presentation/
+- │ ├── ui/ # Jetpack Compose screens
+- │ └── viewmodel/
+- └── ui/theme/ # Material3 theming
 
 This structure promotes:
 - Testability
