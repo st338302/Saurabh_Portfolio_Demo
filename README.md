@@ -61,11 +61,6 @@ This structure promotes:
 - ✅ **Coroutines Test** for deterministic async testing  
 - ✅ **Compose UI Tests** for verifying UI states (expand/collapse, loading, error)  
 
-Run all tests:
-```bash
-./gradlew test
-
-
 🧭 Key Features
   Fetch holdings data from mock REST API
   Calculate current value, total investment, total P&L, and today’s P&L
