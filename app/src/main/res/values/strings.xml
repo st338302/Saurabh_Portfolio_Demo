@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="ltp_prefix">LTP: </string>
+    <string name="pnl_prefix">P&amp;L: </string>
+    <string name="net_qty_prefix">NET QTY: </string>
+</resources>
