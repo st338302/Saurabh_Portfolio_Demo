@@ -76,5 +76,5 @@ This structure promotes:
 - Clean code readability for portfolio or interview demonstrations
 
 🧑‍💻 Author
-Saurabh
+- Saurabh
 [LinkedIn Profile](https://www.linkedin.com/in/saurabh-sa)
