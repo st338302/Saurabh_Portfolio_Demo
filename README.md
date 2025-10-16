@@ -36,7 +36,7 @@ This project is designed as a **reference architecture** for scalable Android de
 ---
 
 ## 🧩 Project Architecture
-app/
+- app/
 ├── core/ # Common utilities (Result, extensions)
 ├── di/ # Hilt dependency injection modules
 ├── feature/
